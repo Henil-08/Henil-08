@@ -102,13 +102,10 @@
 </div>
 
 ###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Henil-08/Henil-08/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Henil-08/count.svg?"  />
 </div>
