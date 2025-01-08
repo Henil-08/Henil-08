@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">- 💬 Ask me about Python, LLM, RAG, Agents, DL, ML<br><br>- 🔭 I’m currently working on Multi-Agentic Chatbots, RAG, Finetuning<br><br>- 🌱 I’m currently learning MultiAgentic Multimodal Chatbots<br><br>- ⚡ Fun fact I can continuously flip water bottle 27 times!<br><br>- 👨‍💻 Visit my Website at [https://henilgajjar.framer.ai/](https://henilgajjar.framer.ai/)<br><br>- 📫 Reach me at **henil.gajjar2102@gmail.com**</p>
+- 💬 Ask me about **Python, LLM, RAG, Agents, DL, ML**
+- 🔭 I’m currently working on **Multi-Agentic Chatbots, RAG, Finetuning**
+- 🌱 I’m currently learning **MultiAgentic Multimodal Chatbots**
+- ⚡ Fun fact I can continuously flip water bottle **27 times!**
+- 👨‍💻 Visit my Website at [https://henilgajjar.framer.ai/](https://henilgajjar.framer.ai/)
+- 📫 Reach me at **henil.gajjar2102@gmail.com**
 
 ###
 
