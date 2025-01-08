@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋, I'm Henil</h2>
 
 ###
-
 - 💬 Ask me about **Python, LLM, RAG, Agents, DL, ML**
 - 🔭 I’m currently working on **Multi-Agentic Chatbots, RAG, Finetuning**
 - 🌱 I’m currently learning **MultiAgentic Multimodal Chatbots**
@@ -10,12 +9,15 @@
 - 📫 Reach me at **henil.gajjar2102@gmail.com**
 
 
-###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+### Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Henil-08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henil-08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -108,8 +110,10 @@
 </div>
 
 
-###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+### Contributions
 <div align="center">
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Henil-08/Henil-08/output/snake.svg" alt="Snake animation" />
