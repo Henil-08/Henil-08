@@ -110,20 +110,19 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ###
-### Contributions
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Henil-08/Henil-08/output/snake.svg" alt="Snake animation" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+
 ###
 ### Profile Views
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Henil-08/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Henil-08/count.svg?"/>
 </div>
 
 ###
