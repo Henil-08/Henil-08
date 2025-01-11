@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Henil</h2>
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I am Henil
 
 ###
 - 💬 Ask me about **Python, LLM, RAG, Agents, DL, ML**
