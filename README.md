@@ -85,7 +85,7 @@
 ###
 ### Contact
 <div align="left">
-  <a href="www.linkedin.com/in/henilgajjar" target="_blank">
+  <a href="https://www.linkedin.com/in/henilgajjar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://api.whatsapp.com/send?phone=8574928741&text=Hello!" target="_blank">
